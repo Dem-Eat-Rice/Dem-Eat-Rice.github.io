@@ -2392,10 +2392,10 @@ input, select, textarea {
 		
 		.image.fit img {
 			width: 100%;
-			height: 100%;
 			}
 			
-		.project-image {
+		#project-image_1,
+		#project-image_2 {
 			height: 165px;
 		}
 
