@@ -3524,6 +3524,6 @@ input, select, textarea {
 
 	}
 
-	.col-6.col-12-medium.imp-medium img {
-		margin-top: 25px;
+	#about-me_img {
+		margin-top: 20px;
 	}
