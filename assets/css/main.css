@@ -2937,6 +2937,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		height: 720px;
 	}
 
 		#header a {
