@@ -1160,6 +1160,11 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.row > .col-12-medium p{
+					width: 100%;
+					font-size: 17px;
+				}
+
 				.row > .off-12-medium {
 					margin-left: 100%;
 				}
