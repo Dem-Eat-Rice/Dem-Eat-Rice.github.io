@@ -1160,10 +1160,10 @@ input, select, textarea {
 					width: 100%;
 				}
 
-				.col-6 .col-12-medium p{
+				/* .col-6 .col-12-medium p{
 					width: 100%;
 					font-size: 16px;
-				}
+				} */
 
 				.row > .off-12-medium {
 					margin-left: 100%;
@@ -2399,6 +2399,7 @@ input, select, textarea {
 		
 		.image.fit img {
 			width: 100%;
+			margin-top: 10px;
 			}
 			
 		/* #project-image_1,
