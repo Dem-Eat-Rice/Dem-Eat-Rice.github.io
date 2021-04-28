@@ -3529,3 +3529,7 @@ input, select, textarea {
 	#about-me_img {
 		margin-top: 20px;
 	}
+
+	.spec-button:hover {
+		background-color: #4fa49a;
+	}
