@@ -3533,3 +3533,8 @@ input, select, textarea {
 	.spec-button:hover {
 		background-color: #4fa49a;
 	}
+
+	#two-container {
+		display: flex;
+		align-content: flex-start;
+	}
