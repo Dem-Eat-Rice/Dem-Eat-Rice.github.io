@@ -3536,10 +3536,7 @@ input, select, textarea {
 
 	.spec-button2 {
 		background-color: gray;
-	}
-
-	.spec-button2:hover {
-		background-color: gray;
+		pointer-events: none;
 	}
 
 	#two-container {
